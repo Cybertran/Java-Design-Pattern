@@ -7,7 +7,7 @@ package interfacePattern;
  * @author jitendra
  *
  */
-public class Main
+public class Example1
 {
 
     /**
