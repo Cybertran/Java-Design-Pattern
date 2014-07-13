@@ -1,4 +1,4 @@
-package interfacePattern;
+package interfaceExample;
 
 public class Example2
 {

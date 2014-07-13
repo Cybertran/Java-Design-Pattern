@@ -1,7 +1,7 @@
 /**
  * 
  */
-package interfacePattern;
+package interfaceExample;
 
 /**
  * @author jitendra
